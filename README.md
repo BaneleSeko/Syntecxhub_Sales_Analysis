@@ -1,4 +1,4 @@
-# Syntecxhub_Sales_Analysis
+# Sales Analysis Using Python
 
 ## Project Overview
 
